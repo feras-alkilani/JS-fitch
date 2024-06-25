@@ -4,6 +4,7 @@
 
 body{
     font-family: Tahoma , Arial;
+    background: lightblue url("https://www.codewithrandom.com/wp-content/uploads/2022/11/codewithrandom15.png") no-repeat fixed center; 
 }
 
 .repos-container {
