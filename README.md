@@ -1,0 +1,1 @@
+This website fetches repository data for any GitHub account by simply entering the username, leveraging a dedicated API. It utilizes HTML, CSS, and JS to deliver a seamless and engaging user experience.
